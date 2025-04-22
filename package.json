@@ -1,0 +1,12 @@
+{
+  "name": "clone-plaka-playwright",
+  "version": "1.0.0",
+  "description": "Clone du site plaka.es avec Playwright (Firefox)",
+  "main": "clone.js",
+  "scripts": {
+    "start": "node clone.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
